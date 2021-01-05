@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "ajv": "^6.0.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bluebird": "^3.5.1",
     "body-parser": "^1.18.3",
     "browserslist": "^4.1.1",
