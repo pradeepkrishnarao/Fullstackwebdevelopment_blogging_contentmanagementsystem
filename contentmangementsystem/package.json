@@ -16,7 +16,7 @@
     "popper.js": "^1.14.4",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
-    "react-draft-wysiwyg": "^1.13.2",
+    "react-draft-wysiwyg": "^1.14.6",
     "react-mail-form": "^1.0.3",
     "react-router": "^5.0.0",
     "react-router-dom": "^4.3.1",
