@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "ajv": "^6.0.0",
+    "ajv": "^6.12.3",
     "axios": "^0.18.0",
     "bluebird": "^3.5.1",
     "body-parser": "^1.18.3",
